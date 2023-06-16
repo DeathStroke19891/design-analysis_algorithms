@@ -1,6 +1,6 @@
 
-**This github repo is a mirror link to my gitea instance running on my server**
+**The github repo is a mirror link to my gitea instance running on my server**
 
-# DAA-lab programs
+# Design and analysis of algorithms
 
-Lab programs where I analyze several popular algorithms.
+Programs where I analyze several popular algorithms.
